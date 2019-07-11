@@ -1,3 +1,4 @@
 server:
   port: 8081
-profile: aaa
+config:
+  keya: aaa
